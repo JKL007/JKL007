@@ -158,30 +158,27 @@ nav-link {
 }
 
 .project-container {
-  /* margin: auto; */
   padding: 5% 6%;
-  /* position: relative; */
-  /* display: block; */
-  background-color: #ffffff;
+  background-color: #faf5f5;
+  background-image: url("https://www.transparenttextures.com/patterns/brick-wall.png");
 }
 
 .skill-container {
-  /* margin: 100px 0; */
   padding: 5% 10%;
-  /* position: relative; */
   background-color: #f6f5f5;
+  background-image: url(http://www.transparenttextures.com/patterns/connected.png);
 }
 
 .touch-container {
-  background-image: -webkit-linear-gradient(104.5deg, #ffffff 50%, #f6f5f5 50%);
+  background-image: -webkit-linear-gradient(104.5deg, #5184C4 50%, #3E9CD6 50%);
   padding: 50px 0;
-  background-color: ;
+  opacity: 0.9;
 }
 
 .bottom-container {
   background-color: #77acf1;
-  /* background-color: #f6f5f5; */
   padding: 50px 0 20px;
+  background-image:url("https://www.transparenttextures.com/patterns/double-lined.png");
 }
 
 .project-row {
